@@ -1,7 +1,7 @@
 # IMDB-Movie-Analysis-SQL
 ## Project Overview 
 This project analyzes the IMDb movie dataset using SQL and MYSQL.
-##Tools used
+## Tools used
 -MYSQL
 -SQL
 ## Files Included 
@@ -9,7 +9,7 @@ This project analyzes the IMDb movie dataset using SQL and MYSQL.
 -ERD and Dataset Information 
 -SQl Questions 
 -Problem statement 
-##Skills Demonstrated
+## Skills Demonstrated
 -SELECT
 -WHERE
 -GROUP BY 
